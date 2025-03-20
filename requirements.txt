@@ -2,6 +2,6 @@
 # The Python Worker is managed by Azure Functions platform
 # Manually managing azure-functions-worker may cause unexpected issues
 
-azure-functions
-azure-servicebus
-azure-webpubsub
+azure-functions==1.21.3
+azure-servicebus==7.14.1
+azure-messaging-webpubsubservice==1.0.0
